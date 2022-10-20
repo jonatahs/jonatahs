@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jonathan Sales</h1>
-<h3 align="center">A passionate Data Analyst and aiming to become a Data Engineer</h3>
+<h1 align="center">Hi 👋, I'm Jonathan Sales and i'm a Data Engineer</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatahs&label=Profile%20views&color=0e75b6&style=flat" alt="jonatahs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonatahs" alt="jonatahs" /></a> </p>
 
-- 🏢 I’m currently working on **TOTVS**
+- 🏢 I’m currently working on **Nava Technology for Business**
 
 - 📝 I regularly write articles on [https://medium.com/@jonathansalesjobs](https://medium.com/@jonathansalesjobs)
 
