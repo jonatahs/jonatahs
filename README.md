@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Sales and i'm a Data Engineer</h1>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5d8e3c6c-ea71-4480-b526-86eeb8f36787" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatahs&label=Profile%20views&color=0e75b6&style=flat" alt="jonatahs" /> </p>
 
